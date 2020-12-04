@@ -1,1 +1,1 @@
-my first git
+Git is a free software
